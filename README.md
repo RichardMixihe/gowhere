@@ -7,7 +7,7 @@
 ``` bash
 # install dependencies
 npm install
-
+in 2022/07/25 change again push
 # serve with hot reload at localhost:8080
 npm run dev
 
